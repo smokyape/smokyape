@@ -63,9 +63,12 @@
 ###### <div align="center">❓Ask me about anything related to coding and web3 via links above</div>  
   
 
-<br/>    
+<br/> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=smokyape&&style=flat-square" align="center" />
+</div>
 <br>
-</br>
+<br/>
 <div align="center">"Everyone knows that things are impermanent"</div>  
 
 
